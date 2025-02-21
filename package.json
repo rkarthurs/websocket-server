@@ -1,0 +1,4 @@
+npm install twilio dotenv
+"scripts": {
+  "start": "node makeCall.js"
+}
